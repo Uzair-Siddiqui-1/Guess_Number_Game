@@ -1,2 +1,1 @@
-# Guess_Number_Game
-A simple Python terminal game where the user tries to guess a randomly generated number between 1 and 10.
+Test your luck and intuition in this fun little Python game! The computer secretly picks a number between 1 and 10 — can you guess it right? A quick, interactive terminal game for beginners learning Python.
